@@ -1,0 +1,15 @@
+{
+  "domain": "mercury",
+  "name": "mercury",
+  "codeowners": [
+    "@directman66"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/dev",
+  "homekit": {},
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}
